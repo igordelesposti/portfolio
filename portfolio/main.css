@@ -708,7 +708,7 @@ li{
     }
 
     .timeline p{
-        font-size: 1.4rem;
+        font-size: 1.rem;
     }
 
     .timeline .date::before{
